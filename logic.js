@@ -77,11 +77,11 @@ const correctKeywords = {
         <a class="button" href="https://youtu.be/iDYXVPVvcFY?si=Pac4AVuPD2wm0tmO" target="_blank">Open</a>`,
     22: `<h2>22 December</h2><p>And it was absolute right! Guess it was tricky to find it :D Wish you always find a solutions even for hardest tasks :D meow<br>Number of today box is: 523</p>
         <a class="button" href="https://youtu.be/i1q81xTUsVE?si=Q-_OV8lIhfQbl1NH" target="_blank">Open</a>`,
-    23: `<h2>23 December</h2><p>Just 2 days before the christmas :D Interesting fact for you:<br>The shortened form of Christmas is "X mas", it's being used from 16th century<br>Number of today box is: 234</p>
+    23: `<h2>23 December</h2><p>Just 1 day before the christmas :D Interesting fact for you:<br>The shortened form of Christmas is "X mas", it's being used from 16th century<br>Number of today box is: 234</p>
         <a class="button" href="https://youtu.be/CQXsVqRV7-M?si=U7pwp9yM6xsRKd-P" target="_blank">Open</a>`,
-    24: `<h2>24 December</h2><p>Tomorrow is Christmas day! So exciting :D<br>Number of today box is: 529</p>
+    24: `<h2>24 December</h2><p>Merry Christmas, my love :D Wish to you always have energy to reach your goals, to you be super healthy<br> and wish to meet next Christmas with you too <3<br>Number of today box is: 318</p>
         <a class="button" href="https://youtu.be/o5qM7hbovx0?si=Uj9jGRbpTSrhWS2B" target="_blank">Open</a>`,
-    25: `<h2>25 December</h2><p>Merry Christmas, my love :D Wish to you always have energy to reach your goals, to you be super healthy<br> and wish to meet next Christmas with you too <3<br>Number of today box is: 318</p>
+    25: `<h2>25 December</h2><p>Thank you for your Advent Calendar. Meow meow :3 Merry Christmas, Schatz, and a Happy New Year!<br>Number of today box is: 529</p>
         <a class="button" href="https://youtu.be/fb0XiKYH3z0?si=drrfUER3XME-9a8L" target="_blank">Open</a>`,
     26: `<h2>26 December</h2><p>I admit that was a tricky question xD I offer you to watch some funny moments from there :D<br>Number of today box is: 661</p>
         <a class="button" href="https://youtu.be/958ks91XQXw?si=nO_wnM4lLrmHdwk2" target="_blank">Open</a>`,
