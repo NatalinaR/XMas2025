@@ -57,7 +57,7 @@ const correctKeywords = {
         <a class="button" href="https://youtu.be/yxrMjf31Fyw?si=CFV5O3B0U_hjoDXV" target="_blank">Open</a>`,
     12: `<h2>12 December</h2><p>You won't believe but today is 2121 day since we met :D 12.12 2121 :D It's really special day for us ^^<br>Number of today box is: 509</p>
         <a class="button" href="https://youtu.be/k_plih5b9To?si=JehwU4mM43y_0k34" target="_blank">Open</a>`,
-    13: `<h2>13 December</h2><p>Welcome, Friday, welcome welcome. You did a great job during this week. I'm so so proud of you <3<br>Number of today box is: 248</p>
+    13: `<h2>13 December</h2><p>Welcome, Friday, welcome welcome. You did a great job during this week. I'm so so proud of you <3<br>Tell me Honey and wait <3<br>Number of today box is: 248</p>
         <a class="button" href="https://youtu.be/V_MX0HiIgRQ?si=54ONlq5kX7vx8TNi" target="_blank">Open</a>`,
     14: `<h2>14 December</h2><p>For this weekend I wanna offer to enjoy some Dreamworks cartoons :D<br>Number of today box is: 634</p>
         <a class="button" href="https://9movies.top/movie/puss-in-boots-the-last-wish-91342" target="_blank">Open</a>`,
