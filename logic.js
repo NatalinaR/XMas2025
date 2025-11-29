@@ -67,7 +67,7 @@ const correctKeywords = {
         <a class="button" href="https://www.youtube.com/watch?v=qPZrUIvED4M" target="_blank">Open</a>`,
     17: `<h2>17 December</h2><p>Pat pat... We did it! And I'm proud of you <3<br>Number of today box is: 249</p>
         <a class="button" href="https://youtu.be/TbL-uxd4ZVw?si=NQEBbCnSqQPt_xfB" target="_blank">Open</a>`,
-    18: `<h2>18 December</h2><p>Just one week and Christmas :D Are you excited? :D<br>Number of today box is: 1000</p>
+    18: `<h2>18 December</h2><p>Just one week and Christmas :D Are you excited? :D<br>Good luck on exams! ❤️<br>Number of today box is: 1000</p>
         <a class="button" href="https://youtu.be/fRTmqOxefwY?si=g0nQNbb-AlktvIT6" target="_blank">Open</a>`,
     19: `<h2>19 December</h2><p>Now they making ugly AI videos where even trucks are all weirdly different XD Check better this<br>Number of today box is: 391</p>
         <a class="button" href="https://www.youtube.com/watch?v=i74tlP7G8_I" target="_blank">Open</a>`,
@@ -75,7 +75,7 @@ const correctKeywords = {
         <a class="button" href="https://youtu.be/3XNun4QQRoE?si=f3hPGTTGhUbFFm-Y" target="_blank">Open</a>`,
     21: `<h2>21 December</h2><p>Happy Sunday, Schatz :D Are you open to watch this cartoon together? :D<br>Number of today box is: 435</p>
         <a class="button" href="https://123moviesfree.bz/watch/klaus.3rgj7k#ep=1" target="_blank">Open</a>`,
-    22: `<h2>22 December</h2><p>Hope this game will keep bring you joy :D And good luck on exams :D<br>Number of today box is: 563</p>
+    22: `<h2>22 December</h2><p>Hope this game will keep bring you joy :D <br>Number of today box is: 563</p>
         <a class="button" href="https://youtu.be/gqF_hZAWr80?si=Nrnt_Lcld-DLO8-M" target="_blank">Open</a>`,
     23: `<h2>23 December</h2><p>Just 1 day before the christmas :D Interesting fact for you:<br>The shortened form of Christmas is "X mas", it's being used from 16th century :o<br>Number of today box is: 5</p>
         <a class="button" href="https://youtu.be/RCqQYpM1hCA?si=XpazkYvandjw4DBG" target="_blank">Open</a>`,
@@ -502,6 +502,7 @@ $('.calendar .day').click(function() {
 
 
   
+
 
 
 
