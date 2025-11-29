@@ -93,7 +93,7 @@ const correctKeywords = {
         <a class="button" href="https://youtu.be/1PbZIPI9JjI?si=Z-jUpoAPJPNvzitq" target="_blank">Open</a>`,
     30: `<h2>30 December</h2><p>New Year is almost here, Schatz :D Wish you in new year always feel confident and believe in yourself <3 Schaaaatz :D meeow<br>Number of today box is: 311</p>
         <a class="button" href="https://youtu.be/1ww5p_Gean4?si=jA9YLqFrw7_TWmHi" target="_blank">Open</a>`,
-    31: `<h2>31 December</h2><p>Tomorrow is New Year :D I'm really excited that we will meet it together <3 Meeeow meeow meeow<br>Number of today box is: 673</p>
+    31: `<h2>31 December</h2><p>Tomorrow is New Year :D I'm really excited that we will meet it together <3 Meeeow meeow meeow</p>
         <a class="button" href="https://youtu.be/LLXGMDf7fS4?si=7H9EsOY7nlcv5Pfm" target="_blank">Open</a>`
   };
 
@@ -502,6 +502,7 @@ $('.calendar .day').click(function() {
 
 
   
+
 
 
 
