@@ -1,100 +1,100 @@
 const correctKeywords = {
-    1: "slowpoke",
-    2: "1996",
-    3: "kiwi",
-    4: "apple",
-    5: "110",
-    6: "glasses",
-    7: "me",
-    8: "chicken",
-    9: "pig",
-    10: "bullfinch",
-    11: "green",
-    12: "blin",
-    13: "pink",
-    14: "banana",
-    15: "purple",
-    16: "beaver",
-    17: "37",
-    18: "2",
-    19: "reverse99",
-    20: "just",
-    21: "giraffe",
-    22: "701291809",
-    23: "692",
-    24: "unicorn",
-    25: "triceratops",
-    26: "7",
-    27: "elephant",
-    28: "hat",
-    29: "146",
-    30: "schatz",
-    31: "1582"
+    1: "10",
+    2: "21",
+    3: "rudolph",
+    4: "2",
+    5: "horse",
+    6: "patara",
+    7: "1973",
+    8: "5",
+    9: "1000",
+    10: "2800000",
+    11: "tgi",
+    12: "bejgli",
+    13: "hogfather",
+    14: "january",
+    15: "cutie",
+    16: "1372",
+    17: "morozko",
+    18: "bethlehem",
+    19: "1931",
+    20: "20",
+    21: "alva",
+    22: "2023",
+    23: "fox",
+    24: "yolka",
+    25: "1689",
+    26: "vanilla",
+    27: "2011",
+    28: "caesar",
+    29: "53",
+    30: "worm",
+    31: "3"
   };
 
   const contentFill = {
-    1: `<h2>1 December</h2><p>Happy first winter day, Szabi! <br>Number of today box is:843 </p>
+    1: `<h2>1 December</h2><p>Happy first winter day, Szabi! <br>Number of today box is: 83 </p>
         <a class="button" href="https://youtu.be/DRWIeVBzU_8?si=jf1m-pfR-BdzBxqu" target="_blank">Open</a>`,
-    2: `<h2>2 December</h2><p>You know, Szabi, I'm really proud of you! And here one funny fact for you: <br>all polar bears are left handed.<br>Number of today surprise is: 279</p>
-        <a class="button" href="https://youtu.be/AFgmVxCgU7M?si=8vVpjoegoZ2oorNI" target="_blank">Open</a>`,
-    3: `<h2>3 December</h2><p>If you think I sleep a lot, look on snail. It can sleep for whole three years XD<br>Number of today box is: 397</p>
-        <a class="button" href="https://youtu.be/3BmxbmedMMc?si=478CUILF8iZAStDF" target="_blank">Open</a>`,
-    4: `<h2>4 December</h2><p>I was sure you will know the answer. Hope you have an apple to eat it now :o<br>Number of today box is: 179</p>
-        <a class="button" href="https://www.youtube.com/live/DbiKrRUNFuE?si=wkhddIxVU_lIPEcR" target="_blank">Open</a>`,
-    5: `<h2>5 December</h2><p>It's thuuursday!!! CLeaning day aaaaand a day to eat something tasty :D<br>Say key word "SWEETY" to me and wait <3<br>Number of today box is: 327</p>
-        <a class="button" href="https://youtu.be/l-d-L5DMak4?si=G_YGM6W4Ibqfg26w" target="_blank">Open</a>`,
-    6: `<h2>6 December</h2><p>After long week how about to watch something funny and relaxing?<br>Number of today box is: 541</p>
-        <a class="button" href="https://youtu.be/hRi_Xrs73yw?si=QjGgj7SPylveMDmK" target="_blank">Open</a>`,
-    7: `<h2>7 December</h2><p>Saturday is a movie time :D Enjoy ^^<br>Number of today box is: 394</p>
-        <a class="button" href="https://9movies.top/movie/jingle-all-the-way-18978" target="_blank">Open</a>`,
-    8: `<h2>8 December</h2><p>I bet u didn't know but the magic number in Hungary is 96 :o<br>Number of today box is: 563</p>
-        <a class="button" href="https://youtu.be/K0yztLpRLM4?si=Gw9NpwyThpJTV2NG" target="_blank">Open</a>`,
-    9: `<h2>9 December</h2><p>Wish you to have a good week! Here you find nice russian cartton. Use automatic translate subtitles :D<br>Number of today box is: 115</p>
-        <a class="button" href="https://youtu.be/9hDjp0C79-c?si=jTmQ7FVPjL6_ElTV" target="_blank">Open</a>`,
-    10: `<h2>10 December</h2><p>Szabi, sweetie, thank you for each moment what you spend with me. Meeeow meeeow<br>Number of today box is: 412</p>
-        <a class="button" href="https://youtu.be/z3U0udLH974?si=M0CmRqiIRIP0fmXe" target="_blank">Open</a>`,
-    11: `<h2>11 December</h2><p>Today is international MOUNTAIN day!!! Congratulations :D<br>Number of today box is: 311</p>
-        <a class="button" href="https://youtu.be/yxrMjf31Fyw?si=CFV5O3B0U_hjoDXV" target="_blank">Open</a>`,
-    12: `<h2>12 December</h2><p>You won't believe but today is 2121 day since we met :D 12.12 2121 :D It's really special day for us ^^<br>Number of today box is: 509</p>
+    2: `<h2>2 December</h2><p>Happy tuesday! I know I have told it before, but u should know it... Polar bears are left handed xD <br>Number of today surprise is: 65</p>
+        <a class="button" href="https://www.youtube.com/watch?v=xOXolSQcEb4" target="_blank">Open</a>`,
+    3: `<h2>3 December</h2><p>What is the funniest bird of 2025? XD<br>Number of today box is: 37</p>
+        <a class="button" href="https://youtube.com/shorts/e5X6U9F4jjI?si=yt6ZmBwXILcNukUC" target="_blank">Open</a>`,
+    4: `<h2>4 December</h2><p>That's right! 2 November :D can't wait when we go to cinema next time<3 <br>PS: check the fox :o <br>Number of today box is: 13</p>
+        <a class="button" href="https://www.youtube.com/watch?v=0f5H2wNft3U" target="_blank">Open</a>`,
+    5: `<h2>5 December</h2><p>I know you not like horses... That's why I offer to watch you this :o <br>Number of today box is: 186</p>
+        <a class="button" href="https://www.youtube.com/watch?v=EaCqAnBcze8" target="_blank">Open</a>`,
+    6: `<h2>6 December</h2><p>I was a bit surprised how it's Turkey... Wanna watch some cool cartton about Egypt? :o <br>Number of today box is: 111</p>
+        <a class="button" href="https://123moviesfree.bz/watch/the-prince-of-egypt.qbbpkd#ep=1" target="_blank">Open</a>`,
+    7: `<h2>7 December</h2><p>Please please... Let's watch this movie together :D I'll bring waffles :D<br>Number of today box is: 235</p>
+        <a class="button" href="https://my.mail.ru/mail/papiterez072102/video/6/1139.html" target="_blank">Open</a>`,
+    8: `<h2>8 December</h2><p>I really were thinking that this year Christmas market will look different .__.<br>Number of today box is: 541</p>
+        <a class="button" href="https://www.youtube.com/watch?v=KaDWEBKnfCU" target="_blank">Open</a>`,
+    9: `<h2>9 December</h2><p>Everything belongs to Hungry :D Except Galls XDDDD<br>Number of today box is: 843</p>
+        <a class="button" href="https://youtu.be/-vbhlpgn6LM?si=cD3eOgNKjdFN_8Zz" target="_blank">Open</a>`,
+    10: `<h2>10 December</h2><p>Szabi, you are best of the best <3 please don't be a spy ._.<br>Number of today box is: 463</p>
+        <a class="button" href="https://youtube.com/shorts/oe78JHgitWk?si=qBFasJLh7S7Y3GNv" target="_blank">Open</a>`,
+    11: `<h2>11 December</h2><p>Today is international MOUNTAIN day!!! Hope exam will go well... <br>Number of today box is: 29</p>
+        <a class="button" href="https://youtu.be/n_PxJ2PyecI?si=BRcDm3f4iNhCJg6b" target="_blank">Open</a>`,
+    12: `<h2>12 December</h2><p>It's one year since we had our 2121 days 12.12 :D Yeeey ^^ <br>Number of today box is: 42</p>
         <a class="button" href="https://youtu.be/k_plih5b9To?si=JehwU4mM43y_0k34" target="_blank">Open</a>`,
-    13: `<h2>13 December</h2><p>Welcome, Friday, welcome welcome. You did a great job during this week. I'm so so proud of you <3<br>Tell me Honey and wait <3<br>Number of today box is: 248</p>
-        <a class="button" href="https://youtu.be/V_MX0HiIgRQ?si=54ONlq5kX7vx8TNi" target="_blank">Open</a>`,
-    14: `<h2>14 December</h2><p>For this weekend I wanna offer to enjoy some Dreamworks cartoons :D<br>Number of today box is: 634</p>
-        <a class="button" href="https://9movies.top/movie/puss-in-boots-the-last-wish-91342" target="_blank">Open</a>`,
-    15: `<h2>15 December</h2><p>Let's watch together Shrek today, shall we? :D<br>Number of today box is: 323</p>
-        <a class="button" href="https://9movies.top/movie/shrek-19549" target="_blank">Open</a>`,
-    16: `<h2>16 December</h2><p>Let's start a week with shocking fact:<br>Some historians think Jesus was born in spring, not the winter at all! Christmas on Dec 25th wasn't celebrated until about 336 AD :o<br>Number of today box is: 431</p>
-        <a class="button" href="https://youtu.be/-E1ULv6LcOk?si=Rqi5YowWWUwFL8ba" target="_blank">Open</a>`,
-    17: `<h2>17 December</h2><p>I wish you a lot luck in new year ^^ To you be healthy and headache stop to worry you that mcuh :D<br>Number of today box is: 613</p>
+    13: `<h2>13 December</h2><p>You like it, I like it, what do you think that meeeeans? :o <br>Number of today box is: 323</p>
+        <a class="button" href="https://123moviesfree.bz/watch/hogfather.q54d13#ep=1" target="_blank">Open</a>`,
+    14: `<h2>14 December</h2><p>It's SUUUNDAY!!! We soon go to Budapest :D TO teeth always be clean :o <br>Number of today box is: 197</p>
+        <a class="button" href="https://youtu.be/lJnADJxyr54?si=f0SuvTLR5iFMSPL6" target="_blank">Open</a>`,
+    15: `<h2>15 December</h2><p>I so much loved to play coop game with you ^^ Wanna do again? :o<br>Number of today box is: 741</p>
+        <a class="button" href="https://youtu.be/mBQ2UHVLKw8?si=qiDpOZ4eIxRatnk7" target="_blank">Open</a>`,
+    16: `<h2>16 December</h2><p>It's a trip day!!! Wish us luck with it and luck for you for bank :D<br>Number of today box is: 1372</p>
+        <a class="button" href="https://www.youtube.com/watch?v=qPZrUIvED4M" target="_blank">Open</a>`,
+    17: `<h2>17 December</h2><p>Pat pat... We did it! And I'm proud of you <3<br>Number of today box is: 249</p>
         <a class="button" href="https://youtu.be/TbL-uxd4ZVw?si=NQEBbCnSqQPt_xfB" target="_blank">Open</a>`,
-    18: `<h2>18 December</h2><p>It's Wednesday, my dude :o SO i wish you always be a frog what get out of any troubles!<br>Number of today box is: 582</p>
-        <a class="button" href="https://youtu.be/i74tlP7G8_I?si=wQyIDWBeFPZwjRNr" target="_blank">Open</a>`,
-    19: `<h2>19 December</h2><p>Time for interesting facts :D Thursday means "tree day" in Japanese.<br>Number of today box is: 254</p>
-        <a class="button" href="https://youtu.be/9_gddkKM_Xs?si=XhXUtgl1vzX9Jx7p&t=142" target="_blank">Open</a>`,
-    20: `<h2>20 December</h2><p>Meow, Szabi <3 Week wasn't easy one... Here some more christmas episode from somewhere :3 Enjoy ^^<br>Number of today box is: 145</p>
-        <a class="button" href="https://9anime.com.ro/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai-episode-4/" target="_blank">Open</a>`,
-    21: `<h2>21 December</h2><p>Happy Saturday, Schatz :D I'm so glad you remember this ^^ Wish you always get discounts and always find in store what you came for :D<br>Number of today box is: 421</p>
-        <a class="button" href="https://youtu.be/iDYXVPVvcFY?si=Pac4AVuPD2wm0tmO" target="_blank">Open</a>`,
-    22: `<h2>22 December</h2><p>And it was absolute right! Guess it was tricky to find it :D Wish you always find a solutions even for hardest tasks :D meow<br>Number of today box is: 523</p>
-        <a class="button" href="https://youtu.be/i1q81xTUsVE?si=Q-_OV8lIhfQbl1NH" target="_blank">Open</a>`,
-    23: `<h2>23 December</h2><p>Just 1 day before the christmas :D Interesting fact for you:<br>The shortened form of Christmas is "X mas", it's being used from 16th century<br>Number of today box is: 234</p>
-        <a class="button" href="https://youtu.be/CQXsVqRV7-M?si=U7pwp9yM6xsRKd-P" target="_blank">Open</a>`,
-    24: `<h2>24 December</h2><p>Merry Christmas, my love :D Wish to you always have energy to reach your goals, to you be super healthy<br> and wish to meet next Christmas with you too <3<br>Number of today box is: 318</p>
-        <a class="button" href="https://youtu.be/o5qM7hbovx0?si=Uj9jGRbpTSrhWS2B" target="_blank">Open</a>`,
-    25: `<h2>25 December</h2><p>Thank you for your Advent Calendar. Meow meow :3 Merry Christmas, Schatz, and a Happy New Year!<br>Number of today box is: 529</p>
-        <a class="button" href="https://youtu.be/fb0XiKYH3z0?si=drrfUER3XME-9a8L" target="_blank">Open</a>`,
-    26: `<h2>26 December</h2><p>I admit that was a tricky question xD I offer you to watch some funny moments from there :D<br>Number of today box is: 661</p>
-        <a class="button" href="https://youtu.be/958ks91XQXw?si=nO_wnM4lLrmHdwk2" target="_blank">Open</a>`,
-    27: `<h2>27 December</h2><p>Wanna get some...massaging? :o I'm happy you solved this riddle too ^^ Wish you to all your exercises protect your back and it never hurt :D meeeow<br>Number of today box is: 106</p>
-        <a class="button" href="https://youtu.be/YKsNUl_s0XQ?si=kroFd8YSDrLXhVXb" target="_blank">Open</a>`,
-    28: `<h2>28 December</h2><p>Just few days before the new year... I'm so excited :D Are you? Thank you for wearing hat :D Wish you always have perfect hair :D <br>Number of today box is: 182</p>
-        <a class="button" href="https://youtu.be/aVOA1s3VaL4?si=-YzY96D2GUY0tuNQ" target="_blank">Open</a>`,
-    29: `<h2>29 December</h2><p>Kiss kiss kiss kiss :D Just one more time chance to say you: Lyublyu :3 Szeretlek :D <br>Number of today box is: 249</p>
-        <a class="button" href="https://youtu.be/09VO1BaXluc?si=LLaPr0TQXVy3Lrun" target="_blank">Open</a>`,
-    30: `<h2>30 December</h2><p>New Year is almost here, Schatz :D Wish you in new year always feel confident and believe in yourself <3 Schaaaatz :D meeow<br>Number of today box is: 154</p>
-        <a class="button" href="https://9movies.top/movie/harry-potter-and-the-philosophers-stone-19812" target="_blank">Open</a>`,
+    18: `<h2>18 December</h2><p>Just one week and Christmas :D Are you excited? :D<br>Number of today box is: 1000</p>
+        <a class="button" href="https://youtu.be/fRTmqOxefwY?si=g0nQNbb-AlktvIT6" target="_blank">Open</a>`,
+    19: `<h2>19 December</h2><p>Now they making ugly AI videos where even trucks are all weirdly different XD Check better this<br>Number of today box is: 391</p>
+        <a class="button" href="https://www.youtube.com/watch?v=i74tlP7G8_I" target="_blank">Open</a>`,
+    20: `<h2>20 December</h2><p>Meow, Szabi <3 One month passed since we visited markets :o Best part was how you where there with me <3<br>Number of today box is: 55</p>
+        <a class="button" href="https://youtu.be/3XNun4QQRoE?si=f3hPGTTGhUbFFm-Y" target="_blank">Open</a>`,
+    21: `<h2>21 December</h2><p>Happy Sunday, Schatz :D Are you open to watch this cartoon together? :D<br>Number of today box is: 435</p>
+        <a class="button" href="https://123moviesfree.bz/watch/klaus.3rgj7k#ep=1" target="_blank">Open</a>`,
+    22: `<h2>22 December</h2><p>Hope this game will keep bring you joy :D And good luck on exams :D<br>Number of today box is: 563</p>
+        <a class="button" href="https://youtu.be/gqF_hZAWr80?si=Nrnt_Lcld-DLO8-M" target="_blank">Open</a>`,
+    23: `<h2>23 December</h2><p>Just 1 day before the christmas :D Interesting fact for you:<br>The shortened form of Christmas is "X mas", it's being used from 16th century :o<br>Number of today box is: 5</p>
+        <a class="button" href="https://youtu.be/RCqQYpM1hCA?si=XpazkYvandjw4DBG" target="_blank">Open</a>`,
+    24: `<h2>24 December</h2><p>Merry Christmas, my love :D Wish to you always have energy to reach your goals, to you be super healthy<br> and wish to meet next Christmas with you too <3<br>Number of today box is: 7</p>
+        <a class="button" href="https://123moviesfree.bz/watch/barbie-in-the-nutcracker.zkn2r1#ep=1" target="_blank">Open</a>`,
+    25: `<h2>25 December</h2><p>Tada. Hope you will find today present useful! I do want to u could use it :D Meow meow <3<br>Number of today box is: 673</p>
+        <a class="button" href="https://youtu.be/BpoK2ex5glU?si=rxY1YqlHlxoXEfLk" target="_blank">Open</a>`,
+    26: `<h2>26 December</h2><p>😏 You know, I know... pudding preferences :o <br>Number of today box is: 69</p>
+        <a class="button" href="https://youtu.be/-5TY3ISbldQ?si=bFl_1QNWFSZof9nx" target="_blank">Open</a>`,
+    27: `<h2>27 December</h2><p>Wanna get some...massaging? :o I'm proud how you can exercise reguarly. Mighty man in mind and body :D meeeow<br>Number of today box is: 101</p>
+        <a class="button" href="https://www.youtube.com/watch?v=G1XR_HuFavs" target="_blank">Open</a>`,
+    28: `<h2>28 December</h2><p>When you hear Ceasar what is your first association? Mine are movies XD<br>Number of today box is: 529</p>
+        <a class="button" href="https://123moviesfree.bz/watch/asterix-at-the-olympic-games.3j28j2#ep=1" target="_blank">Open</a>`,
+    29: `<h2>29 December</h2><p>Kiss kiss kiss kiss :D Just one more time chance to say you: Szeretlek :D Люблю тебя❤️<br>Number of today box is: 17</p>
+        <a class="button" href="https://youtu.be/1PbZIPI9JjI?si=Z-jUpoAPJPNvzitq" target="_blank">Open</a>`,
+    30: `<h2>30 December</h2><p>New Year is almost here, Schatz :D Wish you in new year always feel confident and believe in yourself <3 Schaaaatz :D meeow<br>Number of today box is: 311</p>
+        <a class="button" href="https://youtu.be/1ww5p_Gean4?si=jA9YLqFrw7_TWmHi" target="_blank">Open</a>`,
     31: `<h2>31 December</h2><p>Tomorrow is New Year :D I'm really excited that we will meet it together <3 Meeeow meeow meeow<br>Number of today box is: 673</p>
-        <a class="button" href="https://9movies.top/movie/rise-of-the-guardians-19080" target="_blank">Open</a>`
+        <a class="button" href="https://youtu.be/LLXGMDf7fS4?si=7H9EsOY7nlcv5Pfm" target="_blank">Open</a>`
   };
 
 
@@ -244,7 +244,7 @@ const correctKeywords = {
 var d = new Date(); 
 var todaysDate = d.getDate();
 
-// var todaysDate = 31;
+var todaysDate = 31;
 var target = $('.calendar .day');
 
 console.log(localStorage.getItem('GotActivity'));
@@ -502,4 +502,5 @@ $('.calendar .day').click(function() {
 
 
   
+
 
