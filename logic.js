@@ -244,7 +244,7 @@ const correctKeywords = {
 var d = new Date(); 
 var todaysDate = d.getDate();
 
-var todaysDate = 31;
+//var todaysDate = 31;
 var target = $('.calendar .day');
 
 console.log(localStorage.getItem('GotActivity'));
@@ -502,5 +502,6 @@ $('.calendar .day').click(function() {
 
 
   
+
 
 
